@@ -19,8 +19,6 @@
 - 🔗 Building multi-agent workflows with **LangChain, RAG pipelines, and tool-calling LLMs**
 - ☕ Strong foundation in **Java**, applied to production-grade GenAI applications
 - 🧩 Sharpening logic through Data Structures & Algorithms
-- 🌱 Currently diving deeper into **System Design** and orchestration frameworks for AI agents
-- ⚡ Fun fact: I love turning ideas into autonomous, working products
 
 ---
 
@@ -91,8 +89,6 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-![Footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=100&section=footer&text=Thanks%20for%20Visiting!&fontAlign=50&fontAlignY=50&animation=twinkling&fontColor=ffffff&fontSize=28)
 
 </div>
