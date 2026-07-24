@@ -14,12 +14,13 @@
 
 ## 🔄 About Me
 
-- 🤖 Building **agentic AI systems** powered by LLMs
-- ☕ Strong foundation in **Java**, with hands-on GenAI application development
-- 🧠 Exploring LangChain, RAG pipelines, and multi-agent workflows
-- 🧩 Solving Data Structures & Algorithms
-- 🌱 Currently learning **System Design** and advanced GenAI tooling
-- ⚡ Fun fact: I love turning ideas into working products
+- 🤖 I design and build **autonomous agentic AI systems** that think, plan, and act on their own
+- 🛰️ Like a satellite — I take input, process it fast, and beam back the output in real time
+- 🔗 Building multi-agent workflows with **LangChain, RAG pipelines, and tool-calling LLMs**
+- ☕ Strong foundation in **Java**, applied to production-grade GenAI applications
+- 🧩 Sharpening logic through Data Structures & Algorithms
+- 🌱 Currently diving deeper into **System Design** and orchestration frameworks for AI agents
+- ⚡ Fun fact: I love turning ideas into autonomous, working products
 
 ---
 
