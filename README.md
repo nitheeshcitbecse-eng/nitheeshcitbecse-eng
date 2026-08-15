@@ -1,14 +1,23 @@
-<div align="center">
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-# Nitheesh S
+<h1>Nitheesh S</h1>
 
 ### Agentic AI Engineer · Java Developer · GenAI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+autonomous+agentic+AI+systems;LangChain+%2B+RAG+%2B+Tool-Calling+LLMs;Java+%E2%86%92+Production-Grade+GenAI+Apps;Always+shipping%2C+always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&vCenter=true&width=560&lines=Building+autonomous+agentic+AI+systems;LangChain+%2B+RAG+%2B+Tool-Calling+LLMs;Java+%E2%86%92+Production-Grade+GenAI+Apps;Always+shipping%2C+always+learning)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=nitheeshcitbecse-eng&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
-</div>
+</td>
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" alt="Working animation" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
