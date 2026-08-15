@@ -20,19 +20,8 @@ I design and build **autonomous agentic AI systems** — software that plans, re
 
 ## Dashboard
 
-<table align="center">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=nitheeshcitbecse-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&ring_color=38BDF8" alt="GitHub Stats" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitheeshcitbecse-eng&theme=tokyonight&hide_border=true&background=00000000&stroke=38BDF8&ring=A78BFA&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" width="100%" />
-</td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshcitbecse-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="55%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitheeshcitbecse-eng&theme=tokyonight&hide_border=true&background=00000000&stroke=38BDF8&ring=A78BFA&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" width="60%" />
 </div>
 
 <div align="center">
