@@ -1,91 +1,92 @@
 <div align="center">
 
-# Hi 👋, I'm Nitheesh S
+# Nitheesh S
 
-### 🚀 Agentic AI Engineer | Java Developer | GenAI Enthusiast | Problem Solver
+### Agentic AI Engineer · Java Developer · GenAI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Agentic+AI+Engineer;GenAI+%2B+LLM+Enthusiast;Java+Developer;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+autonomous+agentic+AI+systems;LangChain+%2B+RAG+%2B+Tool-Calling+LLMs;Java+%E2%86%92+Production-Grade+GenAI+Apps;Always+shipping%2C+always+learning)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nitheeshcitbecse-eng&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=nitheeshcitbecse-eng&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
----
+<br/>
 
-## 🔄 About Me
+## About
 
-- 🤖 I design and build **autonomous agentic AI systems** that think, plan, and act on their own
-- 🛰️ Like a satellite — I take input, process it fast, and beam back the output in real time
-- 🔗 Building multi-agent workflows with **LangChain, RAG pipelines, and tool-calling LLMs**
-- ☕ Strong foundation in **Java**, applied to production-grade GenAI applications
-- 🧩 Sharpening logic through Data Structures & Algorithms
+I design and build **autonomous agentic AI systems** — software that plans, reasons, and acts on its own rather than waiting on a script. Most of that work happens through multi-agent workflows built on **LangChain**, **RAG pipelines**, and **tool-calling LLMs**, backed by a solid **Java** foundation for production-grade delivery. When I'm not building agents, I'm sharpening problem-solving through Data Structures & Algorithms.
 
----
+<br/>
 
-## 🌐 Connect with Me
+## Dashboard
+
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=nitheeshcitbecse-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&ring_color=38BDF8" alt="GitHub Stats" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitheeshcitbecse-eng&theme=tokyonight&hide_border=true&background=00000000&stroke=38BDF8&ring=A78BFA&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshcitbecse-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="55%" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitheeshcitbecse-eng&theme=react-dark&hide_border=true&bg_color=00000000&color=38BDF8&line=A78BFA&point=38BDF8&area=true&area_color=38BDF8" alt="Contribution Graph" width="95%" />
+</div>
+
+<br/>
+
+## Tech Stack
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,cpp,react,nextjs,html,css,tailwind&theme=dark" alt="Languages and Frontend" />
+
+**Backend & Infra**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgres,docker,linux,git,github,vscode&theme=dark" alt="Backend and Infra" />
+
+**Agentic AI / GenAI**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitheesh-s-996a63380/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitheeshcitbecse@gmail.com)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=38BDF8)
+![OpenAI](https://img.shields.io/badge/OpenAI-1C3C3C?style=flat-square&logo=openai&logoColor=38BDF8)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1C3C3C?style=flat-square&logo=huggingface&logoColor=38BDF8)
+![Pinecone](https://img.shields.io/badge/Pinecone-1C3C3C?style=flat-square&logo=pinecone&logoColor=38BDF8)
 
 </div>
 
----
+<br/>
 
-## 🚀 Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**GenAI / Agentic AI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 💻 Coding Profiles
+## Coding Profile
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nitheesh__39892/)
+<a href="https://leetcode.com/u/nitheesh__39892/">
+<img src="https://leetcard.jacoblin.cool/nitheesh__39892?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
 </div>
 
----
+<br/>
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitheesh-s-996a63380/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nitheeshcitbecse@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nitheesh__39892/)
+
+</div>
+
+<br/>
 
 <div align="center">
 
