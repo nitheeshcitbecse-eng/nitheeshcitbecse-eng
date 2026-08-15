@@ -32,24 +32,44 @@ I design and build **autonomous agentic AI systems** — software that plans, re
 
 ## Tech Stack
 
-**Languages & Frontend**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,cpp,react,nextjs,html,css,tailwind&theme=dark" alt="Languages and Frontend" />
+![Java](https://img.shields.io/badge/Java-1C3C3C?style=flat-square&logo=openjdk&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-1C3C3C?style=flat-square&logo=python&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-1C3C3C?style=flat-square&logo=javascript&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1C3C3C?style=flat-square&logo=typescript&logoColor=38BDF8)
+![C++](https://img.shields.io/badge/C++-1C3C3C?style=flat-square&logo=cplusplus&logoColor=38BDF8)
 
-**Backend & Infra**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgres,docker,linux,git,github,vscode&theme=dark" alt="Backend and Infra" />
+![HTML5](https://img.shields.io/badge/HTML5-1C3C3C?style=flat-square&logo=html5&logoColor=38BDF8)
+![CSS3](https://img.shields.io/badge/CSS3-1C3C3C?style=flat-square&logo=css3&logoColor=38BDF8)
+![React](https://img.shields.io/badge/React-1C3C3C?style=flat-square&logo=react&logoColor=38BDF8)
+![Next.js](https://img.shields.io/badge/Next.js-1C3C3C?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-1C3C3C?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-**Agentic AI / GenAI**
+**Backend**
 
-<div align="center">
+![FastAPI](https://img.shields.io/badge/FastAPI-1C3C3C?style=flat-square&logo=fastapi&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-1C3C3C?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
+![Express](https://img.shields.io/badge/Express-1C3C3C?style=flat-square&logo=express&logoColor=38BDF8)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1C3C3C?style=flat-square&logo=springboot&logoColor=38BDF8)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1C3C3C?style=flat-square&logo=mongodb&logoColor=38BDF8)
+![MySQL](https://img.shields.io/badge/MySQL-1C3C3C?style=flat-square&logo=mysql&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C3C3C?style=flat-square&logo=postgresql&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-1C3C3C?style=flat-square&logo=docker&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-1C3C3C?style=flat-square&logo=git&logoColor=38BDF8)
+![GitHub](https://img.shields.io/badge/GitHub-1C3C3C?style=flat-square&logo=github&logoColor=38BDF8)
+![Linux](https://img.shields.io/badge/Linux-1C3C3C?style=flat-square&logo=linux&logoColor=38BDF8)
+![VS Code](https://img.shields.io/badge/VS%20Code-1C3C3C?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
+
+**Agentic AI Frameworks**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=38BDF8)
-![OpenAI](https://img.shields.io/badge/OpenAI-1C3C3C?style=flat-square&logo=openai&logoColor=38BDF8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1C3C3C?style=flat-square&logo=huggingface&logoColor=38BDF8)
-![Pinecone](https://img.shields.io/badge/Pinecone-1C3C3C?style=flat-square&logo=pinecone&logoColor=38BDF8)
-
-</div>
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=38BDF8)
 
 <br/>
 
